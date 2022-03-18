@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Practical Task</string>
+    <string name="somethingWrong">Something went wrong!</string>
+    <string name="no_data_found">No data found!</string>
+</resources>
